@@ -1,0 +1,8 @@
+lunch menu:
+pork
+beef
+noodles
+pasta
+fish
+rice
+green peas
