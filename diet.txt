@@ -1,0 +1,6 @@
+dietary foods:
+oat meal
+cereal
+vegetables
+fruits
+avoid carbs
