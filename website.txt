@@ -1,2 +1,3 @@
 add navbar
 add searchbar
+add header
