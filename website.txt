@@ -1,5 +1,5 @@
-add navbar
+add main navbar
 add searchbar
 add header
-add login form
+add login and signup form
 add image gallery
