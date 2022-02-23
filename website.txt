@@ -2,3 +2,4 @@ add navbar
 add searchbar
 add header
 add login form
+add image gallery
